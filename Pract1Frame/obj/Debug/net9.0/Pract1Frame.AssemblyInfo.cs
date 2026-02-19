@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pract1Frame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be85ed9188ff18c7f1a106b2c5889464dc4d7ec5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pract1Frame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pract1Frame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

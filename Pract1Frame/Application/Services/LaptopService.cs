@@ -47,7 +47,7 @@ public class LaptopService : ILaptopServices
             throw new ArgumentException("Название ноутбука не может быть пустым");
         
         if (dto.Price <= 0)
-            throw new ArgumentException("Цена должна быть меньше 0");
+            throw new ArgumentException("Цена должна быть больше 0");
         
         if (dto.Price > 1_000_000)
             throw new ArgumentException("Цена не может быть больше 1 000 000");
