@@ -1,0 +1,6 @@
+@Pract1Frame_HostAddress = http://localhost:5064
+
+GET {{Pract1Frame_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
